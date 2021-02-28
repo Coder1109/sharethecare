@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="sharethecareqr.com" id="6fcdb3a3-6f26-4b88-9cf1-ebc8efb427b8" keyPath="F:\Tasks\040sharethe care\sharetheqr_AWS_west.ppk" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>

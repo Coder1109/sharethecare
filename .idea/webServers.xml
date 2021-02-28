@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a5b5b098-6597-4fb4-9d95-e7f293e7c16f" name="sharethecare" url="http://sharethecareqr.com">
+        <fileTransfer rootFolder="/var/www/sharethecare" accessType="SFTP" host="sharethecareqr.com" port="22" sshConfigId="6fcdb3a3-6f26-4b88-9cf1-ebc8efb427b8" sshConfig="ubuntu@sharethecareqr.com:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
